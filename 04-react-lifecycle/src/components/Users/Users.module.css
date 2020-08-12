@@ -1,0 +1,20 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.listItem {
+  border: 1px solid #ccc;
+  padding: 8px;
+  margin: 4px;
+  border-radius: 4px;
+  width: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.listItem img {
+  height: 40px;
+  border-radius: 50%;
+}
