@@ -1,0 +1,17 @@
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid lightblue;
+  padding: 5px;
+  border-radius: 4px;
+}
+
+.flexRow .countryNumber,
+.flexRow .countryPopulation {
+  margin: 10px;
+  min-width: 90px;
+  display: flex;
+  flex-direction: column;
+}
