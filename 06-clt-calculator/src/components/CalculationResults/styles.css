@@ -1,0 +1,15 @@
+.results-container input {
+  font-weight: 700;
+}
+
+.results-container input.inss-discount {
+  color: #e67e22;
+}
+
+.results-container input.irpf-discount {
+  color: #c0392b;
+}
+
+.results-container input.liquid-salary {
+  color: #16a085;
+}
